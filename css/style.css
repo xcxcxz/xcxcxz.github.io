@@ -1,0 +1,95 @@
+.hidden{
+    display: none;
+}
+.bgimg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+#clock{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    font-size: 150px;
+    color:white;
+    
+}
+
+#textarea {
+    position: absolute;
+    top: 520px;;
+    left: 750px;
+    margin:0;
+    font-size: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid black;
+    background: none;
+}
+#buttonarea {
+    position: relative;
+    top: 512px;;
+    left: 1000px;
+    font-size: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid black;
+    background: none;
+}
+.buttonarea{
+    position: relative;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background: none;
+}
+#todotext{
+    position: absolute;
+    top:60%;
+    margin-left: 70%;
+    font-size: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 3px solid black;
+    background: none;
+}
+#todo-list{
+    position: absolute;
+    top:60%;
+    margin-left: 70%;
+    font-size: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background: none;
+       
+}
+#quote{
+    position: absolute;
+    left: 1500px;
+    font-size: 20px;
+    text-align: center;
+}
+#weather{
+    font-size: 30px;
+}
+.paint{
+    position: absolute;
+    top: 520px;;
+    left: 820px;
+    margin:0;
+    font-size: 50px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background: none;
+}
